@@ -1,0 +1,486 @@
+Tôi là sinh mệnh của bữa tiệc. E:1
+Tôi nói chuyện với rất nhiều người khác nhau tại các bữa tiệc. E:1
+Tôi bắt đầu cuộc trò chuyện. E:1
+Tôi yêu những bữa tiệc lớn. E:1
+Tôi không nói nhiều. E:-1
+Tôi giữ ở chế độ nền. E:-1
+Tôi im lặng khi ở cạnh người lạ. E:-1
+Tôi không thích thu hút sự chú ý vào bản thân mình. E:-1
+Tôi nén lại cảm xúc của mình. E:-1
+Tôi giữ suy nghĩ của mình cho riêng mình. E:-1
+Tôi kết bạn dễ dàng. A:1 E:1
+Tôi cởi mở về cảm xúc của mình. A:1 E:1
+Tôi hành động thoải mái với người khác. A:1 E:1
+Tôi tỏa ra niềm vui. A:1 E:1
+Tôi ấm áp nhanh chóng với người khác. A:1 E:1
+Tôi thật khó để làm quen. A:-1 E:-1
+Tôi là một người rất riêng tư. A:-1 E:-1
+Tôi tránh liên lạc với người khác. A:-1 E:-1
+Tôi giữ khoảng cách với người khác. A:-1 E:-1
+Tôi tiết lộ rất ít về bản thân mình. A:-1 E:-1
+Tôi tự động chịu trách nhiệm. C:1 E:1
+Tôi có thể dễ dàng đẩy mình về phía trước. C:1 E:1
+Tôi cố gắng lãnh đạo người khác. C:1 E:1
+Tôi biến kế hoạch thành hành động. C:1 E:1
+Tôi đứng lên vì chính mình. C:1 E:1
+Tôi luôn bận rộn. C:1 E:1
+Tôi nghĩ ra giải pháp ngay lập tức. C:1 E:1
+Tôi làm rất nhiều việc trong thời gian rảnh rỗi. C:1 E:1
+Tôi biết tôi muốn gì. C:1 E:1
+Tôi để mình bị đẩy đi khắp nơi. C:-1 E:-1
+Tôi không có động lực cao để thành công. C:-1 E:-1
+Tôi cần rất nhiều thời gian để làm mọi việc. C:-1 E:-1
+Tôi cảm thấy thoải mái khi ở cạnh mọi người. N:1 E:1
+Tôi cảm thấy thoải mái trong những tình huống không quen thuộc. N:1 E:1
+Tôi có rất nhiều niềm vui. N:1 E:1
+Tôi không dễ xấu hổ đâu. N:1 E:1
+Tôi yêu cuộc sống. N:1 E:1
+Tôi thường cảm thấy không thoải mái khi ở cạnh người khác. N:-1 E:-1
+Tôi thấy khó tiếp cận người khác. N:-1 E:-1
+Tôi rút lui khỏi những người khác. N:-1 E:-1
+Tôi dễ dàng bỏ cuộc. N:-1 E:-1
+Tôi chỉ cảm thấy thoải mái khi ở bên bạn bè. N:-1 E:-1
+Tôi chịu trách nhiệm. O:1 E:1
+Tôi biết cách thu hút mọi người. O:1 E:1
+Tôi thể hiện bản thân một cách dễ dàng. O:1 E:1
+Tôi là người đầu tiên hành động. O:1 E:1
+Tôi không bao giờ hụt lời. O:1 E:1
+Tôi có rất ít điều để nói. O:-1 E:-1
+Tôi gặp khó khăn trong việc bày tỏ cảm xúc của mình. O:-1 E:-1
+Tôi chờ người khác dẫn đường. O:-1 E:-1
+Tôi sợ thu hút sự chú ý về phía mình. O:-1 E:-1
+Tôi để người khác đưa ra quyết định. O:-1 E:-1
+Tôi dám nói bất cứ điều gì. A:-1 E:1
+Tôi không ngại đưa ra những lời chỉ trích. A:-1 E:1
+Tôi khoe khoang về đức tính của mình. A:-1 E:1
+Tôi biết không có giới hạn. A:-1 E:1
+Tôi biết cách lách luật. A:-1 E:1
+Tôi có thể áp dụng các biện pháp mạnh mẽ. A:-1 E:1
+Tôi không ngại việc trở thành trung tâm của sự chú ý. A:-1 E:1
+Tôi đưa ra yêu cầu đối với người khác. A:-1 E:1
+Tôi không thể chịu được sự đối đầu. A:1 E:-1
+Tôi chờ đến lượt mình. A:1 E:-1
+Tôi ghét có vẻ tự đề cao. A:1 E:-1
+Tôi hành động hoang dã và điên rồ. C:-1 E:1
+Tôi cởi mở về bản thân mình với người khác. C:-1 E:1
+Tôi để mình đi. C:-1 E:1
+Tôi bộc lộ những suy nghĩ thầm kín của mình. C:-1 E:1
+Tôi cười theo cách của tôi trong cuộc sống. C:-1 E:1
+Tôi bày tỏ niềm vui như trẻ thơ. C:-1 E:1
+Tôi đùa giỡn rất nhiều. C:-1 E:1
+Tôi thích làm người khác vui. C:-1 E:1
+Tôi hiếm khi nói đùa. C:1 E:-1
+Tôi thích giao tiếp với người lạ một cách trang trọng hơn. C:1 E:-1
+Tôi là người nói hầu hết. N:-1 E:1
+Tôi nói quá nhiều. N:-1 E:1
+Tôi nói to. N:-1 E:1
+Tôi biến mình thành trung tâm của sự chú ý. N:-1 E:1
+Tôi thích thu hút sự chú ý. N:-1 E:1
+Tôi không bao giờ ngừng nói. N:-1 E:1
+Tôi gây ra rất nhiều tiếng ồn. N:-1 E:1
+Tôi yêu cầu được trở thành trung tâm của sự chú ý. N:-1 E:1
+Tôi nói nhẹ nhàng. N:1 E:-1
+Tôi không thích nói về bản thân mình. N:1 E:-1
+Tôi không thể làm việc nếu không có sự đồng hành của người khác. O:-1 E:1
+Tôi thích được là một phần của một đám đông ồn ào. O:-1 E:1
+Tôi thích được trên đường đi. O:-1 E:1
+Tôi thích ở một mình. O:1 E:-1
+Tôi tìm kiếm sự yên tĩnh. O:1 E:-1
+Tôi tận hưởng sự im lặng. O:1 E:-1
+Tôi không thích những sự kiện đông người. O:1 E:-1
+Tôi không thích hàng xóm sống quá gần. O:1 E:-1
+Tôi dễ dàng giải trí. O:1 E:-1
+Tôi đi con đường riêng của tôi. O:1 E:-1
+Tôi đồng cảm với cảm xúc của người khác. A:1
+Tôi tôn trọng cảm xúc của người khác. A:1
+Tôi tính đến lợi ích của người khác. A:1
+Tôi thích được phục vụ người khác. A:1
+Tôi đánh giá cao quan điểm của người khác. A:1
+Tôi cảm thấy ít quan tâm đến người khác. A:-1
+Tôi không quan tâm đến vấn đề của người khác. A:-1
+Tôi thờ ơ với cảm xúc của người khác. A:-1
+Tôi không dành thời gian cho người khác. A:-1
+Tôi không thể bị làm phiền bởi nhu cầu của người khác. A:-1
+Tôi quan tâm đến mọi người. E:1 A:1
+Tôi làm cho mọi người cảm thấy thoải mái. E:1 A:1
+Tôi biết cách an ủi người khác. E:1 A:1
+Tôi hỏi thăm sức khỏe của người khác. E:1 A:1
+Tôi dành thời gian cho người khác. E:1 A:1
+Tôi làm cho mọi người cảm thấy được chào đón. E:1 A:1
+Tôi bày tỏ lòng biết ơn của mình. E:1 A:1
+Tôi làm cho người khác cảm thấy tốt. E:1 A:1
+Tôi cảm nhận được cảm xúc của người khác. E:1 A:1
+Tôi không thực sự quan tâm đến người khác. E:-1 A:-1
+Tôi hiếm khi cười. E:-1 A:-1
+Tôi sẽ không bao giờ gian lận trong việc nộp thuế. C:1 A:1
+Tôi tôn trọng sự riêng tư của người khác. C:1 A:1
+Tôi thích sự hài hòa trong cuộc sống của tôi. C:1 A:1
+Tôi cố gắng tuân theo các quy tắc. C:1 A:1
+Tôi tôn trọng quyền lực. C:1 A:1
+Tôi không quan tâm đến các quy tắc. C:-1 A:-1
+Tôi quay lưng lại với người khác. C:-1 A:-1
+Tôi chỉ nói về sở thích của mình thôi. C:-1 A:-1
+Tôi đánh giá quá cao thành tích của mình. C:-1 A:-1
+Tôi âm mưu chống lại người khác. C:-1 A:-1
+Tôi hành động gây thiệt hại cho người khác. C:-1 A:-1
+Tôi phá vỡ các quy tắc. C:-1 A:-1
+Tôi dễ dàng được thỏa mãn. N:1 A:1
+Tôi có một lời tốt cho tất cả mọi người. N:1 A:1
+Tôi có quan hệ tốt với hầu hết mọi người. N:1 A:1
+Tôi tin tưởng người khác. N:1 A:1
+Tôi tôn trọng người khác. N:1 A:1
+Tôi tin vào những gì mọi người nói. N:1 A:1
+Tôi khó có thể thỏa mãn. N:-1 A:-1
+Tôi nhanh chóng đánh giá người khác. N:-1 A:-1
+Tôi xúc phạm mọi người. N:-1 A:-1
+Tôi thấy thật khó để tha thứ cho người khác. N:-1 A:-1
+Tôi mâu thuẫn với người khác. N:-1 A:-1
+Tôi chỉ trích những thiếu sót của người khác. N:-1 A:-1
+Tôi dự đoán nhu cầu của người khác. O:1 A:1
+Tôi cảm nhận được mong muốn của người khác. O:1 A:1
+Tôi thích suy ngẫm về mọi thứ. O:1 A:1
+Tôi cố gắng giữ liên lạc với chính mình. O:1 A:1
+Tôi làm việc để cải thiện bản thân. O:1 A:1
+Tôi giả vờ quan tâm đến người khác. O:-1 A:-1
+Tôi không có mặt mềm yếu. O:-1 A:-1
+Tôi đối xử với mọi người như những kẻ thấp kém. O:-1 A:-1
+Tôi không liên lạc được với cảm xúc của mình. O:-1 A:-1
+Tôi coi trọng sự hợp tác hơn là cạnh tranh. E:-1 A:1
+Tôi lắng nghe lương tâm của mình. E:-1 A:1
+Tôi áp đặt ý muốn của mình lên người khác. E:1 A:-1
+Tôi thích một cuộc chiến tốt. E:1 A:-1
+Tôi tìm kiếm xung đột. E:1 A:-1
+Tôi đánh giá cao bản thân mình quá. E:1 A:-1
+Tôi kể những câu chuyện cao siêu về bản thân mình. E:1 A:-1
+Tôi giở trò đồi bại với người khác. E:1 A:-1
+Tôi thích những trò đùa thô thiển. E:1 A:-1
+Tôi lớn tiếng bình luận về người khác. E:1 A:-1
+Tôi thích được liều lĩnh. E:1 A:-1
+Tôi làm những việc nguy hiểm. E:1 A:-1
+Tôi quan tâm đến người khác. C:-1 A:1
+Tôi vô cùng xúc động trước nỗi bất hạnh của người khác. C:-1 A:1
+Tôi thấy thương cho những người có hoàn cảnh khó khăn hơn mình. C:-1 A:1
+Tôi quan tâm đến cuộc sống của người khác. C:-1 A:1
+Tôi thích làm mọi việc cho người khác. C:-1 A:1
+Tôi trấn an người khác. C:-1 A:1
+Tôi đòi hỏi rất nhiều từ người khác. C:1 A:-1
+Tôi không rơi vào những câu chuyện nức nở. C:1 A:-1
+Tôi lắng nghe bộ não của tôi hơn là trái tim tôi. C:1 A:-1
+Tôi có xu hướng không thích những người có trái tim mềm yếu. C:1 A:-1
+Tôi cố gắng không nghĩ đến những người túng thiếu. C:1 A:-1
+Tôi coi thường mọi điểm yếu. C:1 A:-1
+Tôi tin rằng mọi người nên tự bảo vệ mình. C:1 A:-1
+Tôi đau khổ trước nỗi buồn của người khác. N:-1 A:1
+Tôi lắng nghe trái tim mình hơn là lý trí. N:-1 A:1
+Tôi yêu thích những bộ phim dành cho trẻ em. N:-1 A:1
+Tôi muốn làm hài lòng người khác. N:-1 A:1
+Tôi nhớ ngày sinh nhật của bạn bè tôi. N:-1 A:1
+Tôi trân trọng những kỷ vật. N:-1 A:1
+Tôi muốn có ý nghĩa gì đó với người khác. N:-1 A:1
+Tôi tin rằng khóc sẽ giúp tôi cảm thấy tốt hơn. N:-1 A:1
+Tôi thể hiện cảm xúc của mình. N:-1 A:1
+Tôi không hiểu những người dễ xúc động. N:1 A:-1
+Tôi không hào hứng với mọi thứ. N:1 A:-1
+Tôi không gọi cho mọi người chỉ để nói chuyện. N:1 A:-1
+Tôi không quan tâm đến việc ăn mặc đẹp. N:1 A:-1
+Tôi có một trái tim mềm mại. O:-1 A:1
+Tôi tránh đường cho người khác. O:-1 A:1
+Tôi nghĩ đến người khác trước. O:-1 A:1
+Tôi sẽ làm bất cứ điều gì cho người khác. O:-1 A:1
+Tôi thích làm hài lòng người khác. O:-1 A:1
+Tôi sẽ không làm hại một con ruồi. O:-1 A:1
+Tôi tạo ra kẻ thù. O:1 A:-1
+Tôi phản đối chính quyền. O:1 A:-1
+Tôi tin rằng tôi tốt hơn những người khác. O:1 A:-1
+Tôi tìm kiếm sự nguy hiểm. O:1 A:-1
+Tôi khiến mọi người phải chịu áp lực. O:1 A:-1
+Tôi cố gắng vượt qua người khác. O:1 A:-1
+Tôi chỉ tin vào bản thân mình. O:1 A:-1
+Tôi hoàn thành công việc của mình đúng thời hạn. C:1
+Tôi làm mọi việc theo kế hoạch. C:1
+Tôi cẩn thận để tránh phạm sai lầm. C:1
+Tôi giữ sổ séc của mình cân bằng. C:1
+Tôi thích lên kế hoạch trước. C:1
+Tôi trả lại đồ đã mượn. C:1
+Tôi thường quên đặt mọi thứ vào đúng vị trí của chúng. C:-1
+Tôi lơ là nhiệm vụ của mình. C:-1
+Tôi nhận nhiệm vụ quá nhẹ nhàng. C:-1
+Tôi bỏ dở công việc của mình. C:-1
+Tôi không lên kế hoạch trước. C:-1
+Tôi trì hoãn những nhiệm vụ khó chịu. C:-1
+Tôi thường xuyên đi làm muộn. C:-1
+Tôi đang chính xác trong công việc của tôi. E:1 C:1
+Tôi lập kế hoạch và bám sát chúng. E:1 C:1
+Tôi hoàn thành công việc ngay lập tức. E:1 C:1
+Tôi làm theo kế hoạch của mình. E:1 C:1
+Tôi kết thúc những gì tôi bắt đầu. E:1 C:1
+Tôi lãng phí thời gian của tôi. E:-1 C:-1
+Tôi cảm thấy khó khăn khi bắt tay vào làm việc. E:-1 C:-1
+Tôi trì hoãn các quyết định. E:-1 C:-1
+Tôi gặp khó khăn khi bắt đầu nhiệm vụ. E:-1 C:-1
+Tôi cần một động lực để bắt đầu. E:-1 C:-1
+Tôi thường xuyên quên làm việc gì đó. E:-1 C:-1
+Tôi làm theo hướng dẫn. A:1 C:1
+Tôi giữ cho mình được chăm sóc chu đáo. A:1 C:1
+Tôi kiểm tra lại công việc của mình. A:1 C:1
+Tôi cư xử đúng mực. A:1 C:1
+Tôi tuân thủ các quy tắc. A:1 C:1
+Tôi đánh giá cao cách cư xử tốt. A:1 C:1
+Tôi làm những việc không đúng đắn. A:-1 C:-1
+Tôi coi thường các quy tắc. A:-1 C:-1
+Tôi làm ngược lại những gì được yêu cầu. A:-1 C:-1
+Tôi không chú ý đến vẻ ngoài của mình. A:-1 C:-1
+Tôi không nghĩ luật áp dụng cho tôi. A:-1 C:-1
+Tôi đưa ra những quyết định hấp tấp. A:-1 C:-1
+Tôi nói những điều không phù hợp. A:-1 C:-1
+Tôi luôn sẵn sàng. N:1 C:1
+Tôi thực hiện kế hoạch của mình. N:1 C:1
+Tôi đi làm ngay. N:1 C:1
+Tôi không dễ bị phân tâm. N:1 C:1
+Tôi xử lý công việc một cách trôi chảy. N:1 C:1
+Tôi làm mọi thứ rối tung lên. N:-1 C:-1
+Tôi dễ bị phân tâm. N:-1 C:-1
+Tôi làm mọi thứ rối tung lên. N:-1 C:-1
+Tôi trốn tránh nhiệm vụ của mình. N:-1 C:-1
+Tôi không nhìn thấu mọi chuyện. N:-1 C:-1
+Tôi làm mọi việc vào phút cuối. N:-1 C:-1
+Tôi không thể quyết định được. N:-1 C:-1
+Tôi chú ý đến chi tiết. O:1 C:1
+Tôi hoàn thành nhiệm vụ thành công. O:1 C:1
+Tôi có con mắt để ý đến từng chi tiết. O:1 C:1
+Tôi yêu cầu chất lượng. O:1 C:1
+Tôi đặt ra những tiêu chuẩn cao cho bản thân và những người khác. O:1 C:1
+Tôi đưa ra những quyết định được cân nhắc kỹ lưỡng. O:1 C:1
+Tôi thực hiện đúng cam kết của mình. O:1 C:1
+Tôi phát hiện những sai lầm. O:1 C:1
+Tôi nghĩ trước. O:1 C:1
+Tôi hiếm khi để ý đến chi tiết. O:-1 C:-1
+Tôi dành ít thời gian và công sức cho công việc của mình. O:-1 C:-1
+Tôi không chú ý. O:-1 C:-1
+Tôi chỉ mua những thứ thiết thực. E:-1 C:1
+Tôi có xu hướng không thích những người bốc đồng. E:-1 C:1
+Tôi đề phòng. E:-1 C:1
+Tôi không bao giờ phung phí. E:-1 C:1
+Tôi không bao giờ chi tiêu nhiều hơn mức tôi có thể chi trả. E:-1 C:1
+Tôi làm những điều điên rồ. E:1 C:-1
+Tôi thường lập kế hoạch vào phút cuối. E:1 C:-1
+Tôi dễ dàng bị thuyết phục làm những điều ngớ ngẩn. E:1 C:-1
+Tôi cười vào sự khiêu khích nhỏ nhất. E:1 C:-1
+Tôi thích cười lớn. E:1 C:-1
+Tôi thích hành động theo ý thích. E:1 C:-1
+Tôi nhảy vào mọi thứ mà không cần suy nghĩ. E:1 C:-1
+Tôi làm mọi việc theo trình tự hợp lý. A:-1 C:1
+Tôi đi thẳng vào vấn đề. A:-1 C:1
+Tôi tin vào một câu trả lời hợp lý cho mọi thứ. A:-1 C:1
+Tôi có được sự khởi đầu tốt hơn những người khác. A:-1 C:1
+Tôi không thích công việc không hoàn hảo. A:-1 C:1
+Tôi tin vào mắt đền mắt. A:-1 C:1
+Tôi không có thiện cảm với bọn tội phạm. A:-1 C:1
+Tôi lý luận một cách logic. A:-1 C:1
+Tôi thông cảm với những người vô gia cư. A:1 C:-1
+Tôi không nghiêm khắc như lẽ ra phải thế. A:1 C:-1
+Tôi để người ta kéo chân tôi. A:1 C:-1
+Tôi làm mọi việc một cách nửa vời. A:1 C:-1
+Tôi để sự chú ý của mình lang thang. A:1 C:-1
+Tôi tin rằng tội phạm nên nhận được sự giúp đỡ hơn là sự trừng phạt. A:1 C:-1
+Tôi tiếp tục cho đến khi mọi thứ hoàn hảo. N:-1 C:1
+Tôi muốn mọi chi tiết được chăm sóc. N:-1 C:1
+Tôi muốn mọi thứ phải "vừa phải". N:-1 C:1
+Tôi muốn mọi việc diễn ra theo đúng kế hoạch. N:-1 C:1
+Tôi đòi hỏi sự hoàn hảo ở người khác. N:-1 C:1
+Tôi luôn để ý tới công việc của người khác. N:-1 C:1
+Tôi mong đợi sự làm việc tận tâm từ những người khác. N:-1 C:1
+Tôi không bị làm phiền bởi những người bừa bộn. N:1 C:-1
+Tôi không bị làm phiền bởi sự hỗn loạn. N:1 C:-1
+Tôi thích trật tự. O:-1 C:1
+Tôi làm theo một lịch trình. O:-1 C:1
+Tôi làm việc theo một thói quen. O:-1 C:1
+Tôi thích dọn dẹp. O:-1 C:1
+Tôi làm mọi việc theo sách. O:-1 C:1
+Tôi bảo quản tốt đồ đạc của mình. O:-1 C:1
+Tôi thấy rằng các quy tắc được tuân thủ. O:-1 C:1
+Tôi để lại đồ đạc của mình xung quanh. O:1 C:-1
+Tôi để lại một mớ hỗn độn trong phòng của tôi. O:1 C:-1
+Tôi không thích thói quen. O:1 C:-1
+Tôi hiếm khi nổi điên. N:1
+Tôi không dễ bị làm phiền bởi mọi thứ. N:1
+Tôi không dễ dàng nản lòng. N:1
+Tôi hiếm khi phạm tội. N:1
+Tôi giữ bình tĩnh. N:1
+Tôi dễ bị căng thẳng. N:-1
+Tôi dễ buồn bã. N:-1
+Tôi dễ bị bối rối. N:-1
+Tôi thay đổi tâm trạng rất nhiều. N:-1
+Tôi bị cuốn vào những vấn đề của mình. N:-1
+Tôi hiếm khi cảm thấy buồn. E:1 N:1
+Tôi cảm thấy thoải mái với chính mình. E:1 N:1
+Tôi dễ dàng thích nghi với những tình huống mới. E:1 N:1
+Tôi nhìn vào mặt tươi sáng của cuộc sống. E:1 N:1
+Tôi chắc chắn về lập trường của mình. E:1 N:1
+Tôi thường cảm thấy xanh xao. E:-1 N:-1
+Tôi lo lắng về mọi thứ. E:-1 N:-1
+Tôi cảm thấy dễ dàng bị đe dọa. E:-1 N:-1
+Tôi không thích bản thân mình. E:-1 N:-1
+Tôi đầy nghi ngờ về mọi thứ. E:-1 N:-1
+Tôi hiếm khi bị kích động. A:1 N:1
+Tôi không dễ bị khó chịu. A:1 N:1
+Tôi tiếp nhận mọi thứ khi chúng đến. A:1 N:1
+Tôi chấp nhận mọi người như họ vốn có. A:1 N:1
+Tôi dễ nổi giận. A:-1 N:-1
+Tôi thường xuyên có tâm trạng tồi tệ. A:-1 N:-1
+Tôi trở nên tức giận. A:-1 N:-1
+Tôi cáu kỉnh với mọi người. A:-1 N:-1
+Tôi mất bình tĩnh. A:-1 N:-1
+Tôi có những ngày tôi phát điên với thế giới. A:-1 N:-1
+Tôi vẫn bình tĩnh trước áp lực. C:1 N:1
+Tôi dễ dàng chống lại sự cám dỗ. C:1 N:1
+Tôi hiếm khi ăn quá nhiều. C:1 N:1
+Tôi có thể kiểm soát cơn thèm của mình. C:1 N:1
+Tôi được hướng dẫn bởi tâm trạng của tôi. C:-1 N:-1
+Tôi không chắc cuộc đời mình sẽ đi về đâu. C:-1 N:-1
+Tôi không biết tại sao tôi lại làm một số việc tôi làm. C:-1 N:-1
+Tôi mất kiểm soát. C:-1 N:-1
+Tôi không thể tập trung. C:-1 N:-1
+Tôi làm những việc mà sau này tôi phải hối hận. C:-1 N:-1
+Tôi bình tĩnh ngay cả trong những tình huống căng thẳng. O:1 N:1
+Tôi không mất đầu. O:1 N:1
+Tôi biết cách đối phó. O:1 N:1
+Tôi có thể chịu được những lời chỉ trích. O:1 N:1
+Tôi dễ dàng phạm tội. O:-1 N:-1
+Tôi dễ hoảng sợ. O:-1 N:-1
+Tôi dễ bị tổn thương. O:-1 N:-1
+Tôi dễ bị xúc phạm. O:-1 N:-1
+Tôi cảm thấy bị nghiền nát bởi những thất bại. O:-1 N:-1
+Tôi trở nên choáng ngợp trước các sự kiện. O:-1 N:-1
+Tôi dễ dàng sợ hãi. O:-1 N:-1
+Tôi dễ bị nhầm lẫn. O:-1 N:-1
+Tôi luôn kiểm soát cảm xúc của mình. E:-1 N:1
+Tôi để người khác kết thúc điều họ đang nói. E:-1 N:1
+Tôi yêu cầu sự chú ý. E:1 N:-1
+Tôi phản ứng dữ dội. E:1 N:-1
+Tôi nói chuyện ngay cả khi tôi biết mình không nên nói. E:1 N:-1
+Tôi thường làm ầm ĩ lên. E:1 N:-1
+Tôi há mồm ra. E:1 N:-1
+Tôi dễ bị kích động. E:1 N:-1
+Tôi buột miệng nói ra bất cứ điều gì nảy ra trong đầu. E:1 N:-1
+Tôi xen vào cuộc trò chuyện. E:1 N:-1
+Tôi thích buôn chuyện. E:1 N:-1
+Tôi hiếm khi có cảm xúc. A:-1 N:1
+Tôi không dễ bị ảnh hưởng bởi cảm xúc của mình. A:-1 N:1
+Tôi bị choáng ngợp bởi cảm xúc. A:1 N:-1
+Tôi dễ khóc. A:1 N:-1
+Tôi bật khóc. A:1 N:-1
+Tôi dễ dàng rơi nước mắt. A:1 N:-1
+Tôi khóc khi xem phim. A:1 N:-1
+Tôi đeo trái tim mình trên tay áo. A:1 N:-1
+Tôi có những cơn khóc. A:1 N:-1
+Tôi muốn mọi thứ thêm vào một cách hoàn hảo. C:1 N:-1
+Tôi yêu cầu sự phục tùng. C:1 N:-1
+Tôi giữ vẻ bề ngoài. C:1 N:-1
+Tôi yêu trật tự và đều đặn. C:1 N:-1
+Tôi gắn bó với những cách thông thường. C:1 N:-1
+Tôi muốn mọi việc được thực hiện theo cách của tôi. C:1 N:-1
+Tôi là một sinh vật của thói quen. C:1 N:-1
+Tôi cố gắng gây ấn tượng với người khác. C:1 N:-1
+Tôi không thể chịu đựng được sự mâu thuẫn. C:1 N:-1
+Tôi muốn được nói rằng tôi đúng. C:1 N:-1
+Tôi trải qua rất ít cảm xúc thăng trầm. O:-1 N:1
+Tôi có xu hướng cảm thấy như vậy mỗi ngày. O:-1 N:1
+Tôi luôn có tâm trạng như vậy. O:-1 N:1
+Tôi hiếm khi nhận thấy phản ứng cảm xúc của mình. O:-1 N:1
+Tôi cảm thấy thư giãn hầu hết thời gian. O:-1 N:1
+Tôi không dễ bị khuấy động. O:-1 N:1
+Tôi không bị làm phiền bởi các sự kiện. O:-1 N:1
+Tôi trải nghiệm cảm xúc của mình một cách mãnh liệt. O:1 N:-1
+Tôi thường xuyên thay đổi tâm trạng. O:1 N:-1
+Tôi bị ảnh hưởng bởi cảm xúc của mình. O:1 N:-1
+Tôi có thể dễ dàng bị khuấy động. O:1 N:-1
+Tôi có vốn từ vựng phong phú. O:1
+Tôi dùng từ khó. O:1
+Tôi đưa ra những nhận xét sâu sắc. O:1
+Tôi thể hiện sự thông thạo ngôn ngữ. O:1
+Tôi thích suy nghĩ về mọi thứ. O:1
+Tôi cố gắng hiểu bản thân mình. O:1
+Tôi không quan tâm đến những ý tưởng trừu tượng. O:-1
+Tôi sẽ không thăm dò sâu vào một chủ đề. O:-1
+Tôi có vốn từ vựng kém. O:-1
+Tôi không thích học tập. O:-1
+Tôi bỏ qua những từ khó trong khi đọc. O:-1
+Tôi tràn đầy ý tưởng. E:1 O:1
+Tôi có những ý tưởng tuyệt vời. E:1 O:1
+Tôi đưa cuộc trò chuyện lên một tầm cao hơn. E:1 O:1
+Tôi nghĩ ra những kế hoạch táo bạo. E:1 O:1
+Tôi nhanh chóng nghĩ ra những ý tưởng mới. E:1 O:1
+Tôi giỏi nhiều thứ. E:1 O:1
+Tôi không có trí tưởng tượng tốt. E:-1 O:-1
+Tôi gặp khó khăn trong việc tưởng tượng mọi thứ. E:-1 O:-1
+Tôi không thể nghĩ ra những ý tưởng mới. E:-1 O:-1
+Tôi nhìn thấy vẻ đẹp ở những thứ mà người khác có thể không nhận thấy. A:1 O:1
+Tôi dành thời gian để suy ngẫm về mọi thứ. A:1 O:1
+Tôi làm ra những thứ đẹp đẽ. A:1 O:1
+Tôi tận hưởng vẻ đẹp của thiên nhiên. A:1 O:1
+Tôi thích thảo luận về phim và sách với người khác. A:1 O:1
+Tôi thích âm nhạc. A:1 O:1
+Tôi yêu hoa. A:1 O:1
+Tôi yêu những thứ đẹp đẽ. A:1 O:1
+Tôi không thích buổi hòa nhạc. A:-1 O:-1
+Tôi không thích xem biểu diễn múa. A:-1 O:-1
+Tôi học rất nhanh. C:1 O:1
+Tôi sử dụng bộ não của tôi. C:1 O:1
+Tôi xuất sắc trong những gì tôi làm. C:1 O:1
+Tôi nhìn vào sự thật. C:1 O:1
+Tôi gặp thử thách. C:1 O:1
+Tôi tìm kiếm lời giải thích về mọi thứ. C:1 O:1
+Tôi cần mọi thứ được giải thích chỉ một lần. C:1 O:1
+Tôi biết cách áp dụng kiến ​​thức của mình. C:1 O:1
+Tôi có thể xử lý các vấn đề phức tạp. N:1 O:1
+Tôi nhanh chóng hiểu mọi thứ. N:1 O:1
+Tôi nắm bắt mọi thứ một cách nhanh chóng. N:1 O:1
+Tôi thích đọc tài liệu đầy thử thách. N:1 O:1
+Tôi có thể tự mình tìm hiểu mọi thứ. N:1 O:1
+Tôi có thể xử lý rất nhiều thông tin. N:1 O:1
+Tôi nhanh chóng hiểu được mọi thứ. N:1 O:1
+Tôi tránh đọc những tài liệu khó. N:-1 O:-1
+Tôi cố gắng tránh những người phức tạp. N:-1 O:-1
+Tôi không hiểu mọi thứ. N:-1 O:-1
+Tôi dành thời gian để suy ngẫm về mọi thứ. E:-1 O:1
+Tôi thích dành thời gian một mình. E:-1 O:1
+Tôi sống trong thế giới của riêng mình. E:-1 O:1
+Tôi tận hưởng sự riêng tư của mình. E:-1 O:1
+Tôi không ngại ăn một mình. E:-1 O:1
+Tôi làm mọi việc theo tốc độ của riêng mình. E:-1 O:1
+Tôi thích chiêm nghiệm. E:-1 O:1
+Tôi thích ở một mình hơn. E:-1 O:1
+Tôi có quan điểm riêng của mình. E:-1 O:1
+Tôi muốn được ở một mình. E:-1 O:1
+Tôi không thể chịu đựng được việc ở một mình. E:1 O:-1
+Tôi không thích suy ngẫm về mọi thứ. E:1 O:-1
+Tôi thích giải quyết những vấn đề phức tạp. A:-1 O:1
+Tôi hỏi những câu hỏi mà không ai khác làm. A:-1 O:1
+Tôi biết câu trả lời cho nhiều câu hỏi. A:-1 O:1
+Tôi thách thức quan điểm của người khác. A:-1 O:1
+Tôi có thể dễ dàng liên kết các sự kiện với nhau. A:-1 O:1
+Tôi gặp khó khăn trong việc hiểu những ý tưởng trừu tượng. A:1 O:-1
+Tôi tránh các cuộc thảo luận triết học. A:1 O:-1
+Tôi không quan tâm đến các cuộc thảo luận lý thuyết. A:1 O:-1
+Tôi coi mình là một người bình thường. A:1 O:-1
+Tôi không quan tâm đến việc suy đoán về mọi thứ. A:1 O:-1
+Tôi có một trí tưởng tượng sống động. C:-1 O:1
+Tôi thích sự đa dạng hơn thói quen. C:-1 O:1
+Tôi tin vào tầm quan trọng của nghệ thuật. C:-1 O:1
+Tôi tận hưởng những chuyến bay hoang dã của tưởng tượng. C:-1 O:1
+Tôi cần một lối thoát sáng tạo. C:-1 O:1
+Tôi không thích nghệ thuật. C:1 O:-1
+Tôi không thích đi đến bảo tàng nghệ thuật. C:1 O:-1
+Tôi không thích thơ. C:1 O:-1
+Tôi hiếm khi chìm đắm trong suy nghĩ. C:1 O:-1
+Tôi hiếm khi mơ mộng. C:1 O:-1
+Tôi tìm kiếm những ý nghĩa ẩn giấu trong mọi thứ. N:-1 O:1
+Tôi thích chìm đắm trong suy nghĩ. N:-1 O:1
+Tôi suy nghĩ sâu sắc về mọi thứ. N:-1 O:1
+Tôi cần hiểu động cơ của mình. N:-1 O:1
+Tôi có xu hướng phân tích mọi thứ. N:-1 O:1
+Tôi có xu hướng suy nghĩ về điều gì đó hàng giờ. N:-1 O:1
+Tôi thích kiểm tra bản thân và cuộc sống của tôi. N:-1 O:1
+Tôi hiếm khi tìm kiếm ý nghĩa sâu sắc hơn trong mọi thứ. N:1 O:-1
+Tôi không bao giờ thách thức mọi thứ. N:1 O:-1

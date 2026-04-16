@@ -1,0 +1,486 @@
+Ich bin das Leben der Party. E:1
+Auf Partys spreche ich mit vielen unterschiedlichen Menschen. E:1
+Ich beginne Gespräche. E:1
+Ich liebe große Partys. E:1
+Ich rede nicht viel. E:-1
+Ich bleibe im Hintergrund. E:-1
+Gegenüber Fremden bin ich ruhig. E:-1
+Ich mag es nicht, auf mich aufmerksam zu machen. E:-1
+Ich unterdrücke meine Gefühle. E:-1
+Ich behalte meine Gedanken für mich. E:-1
+Es fällt mir leicht, Freunde zu finden. A:1 E:1
+Ich gehe offen mit meinen Gefühlen um. A:1 E:1
+Ich verhalte mich entspannt im Umgang mit anderen. A:1 E:1
+Ich strahle Freude aus. A:1 E:1
+Ich werde schnell mit anderen warm. A:1 E:1
+Es ist schwer, mich kennenzulernen. A:-1 E:-1
+Ich bin ein sehr privater Mensch. A:-1 E:-1
+Ich vermeide Kontakte mit anderen. A:-1 E:-1
+Ich halte andere auf Distanz. A:-1 E:-1
+Ich gebe wenig über mich preis. A:-1 E:-1
+Ich übernehme automatisch die Verantwortung. C:1 E:1
+Ich kann mich leicht nach vorne drängen. C:1 E:1
+Ich versuche, andere zu führen. C:1 E:1
+Ich setze Pläne in Taten um. C:1 E:1
+Ich stehe für mich selbst ein. C:1 E:1
+Ich bin immer beschäftigt. C:1 E:1
+Mir fällt sofort eine Lösung ein. C:1 E:1
+In meiner Freizeit mache ich viel. C:1 E:1
+Ich weiß, was ich will. C:1 E:1
+Ich ließ mich herumschubsen. C:-1 E:-1
+Ich bin nicht besonders motiviert, erfolgreich zu sein. C:-1 E:-1
+Ich brauche viel Zeit, um Dinge zu erledigen. C:-1 E:-1
+Ich fühle mich im Umgang mit Menschen wohl. N:1 E:1
+Ich fühle mich in unbekannten Situationen wohl. N:1 E:1
+Ich habe viel Spaß. N:1 E:1
+Ich schäme mich nicht so schnell. N:1 E:1
+Ich liebe das Leben. N:1 E:1
+Im Beisein anderer fühle ich mich oft unwohl. N:-1 E:-1
+Es fällt mir schwer, auf andere zuzugehen. N:-1 E:-1
+Ich ziehe mich von anderen zurück. N:-1 E:-1
+Ich gebe leicht auf. N:-1 E:-1
+Ich fühle mich nur mit Freunden wohl. N:-1 E:-1
+Ich übernehme die Verantwortung. O:1 E:1
+Ich weiß, wie man Menschen fesselt. O:1 E:1
+Ich drücke mich leicht aus. O:1 E:1
+Ich bin der Erste, der handelt. O:1 E:1
+Mir fehlen nie die Worte. O:1 E:1
+Ich habe wenig zu sagen. O:-1 E:-1
+Es fällt mir schwer, meine Gefühle auszudrücken. O:-1 E:-1
+Ich warte darauf, dass andere den Weg weisen. O:-1 E:-1
+Ich habe Angst, auf mich aufmerksam zu machen. O:-1 E:-1
+Ich lasse andere die Entscheidungen treffen. O:-1 E:-1
+Ich wage es, etwas zu sagen. A:-1 E:1
+Ich habe keine Angst davor, Kritik zu üben. A:-1 E:1
+Ich prahle mit meinen Tugenden. A:-1 E:1
+Ich kenne keine Grenzen. A:-1 E:1
+Ich weiß, wie ich die Regeln umgehen kann. A:-1 E:1
+Ich kann starke Maßnahmen ergreifen. A:-1 E:1
+Es macht mir nichts aus, im Mittelpunkt der Aufmerksamkeit zu stehen. A:-1 E:1
+Ich stelle Anforderungen an andere. A:-1 E:1
+Ich kann Konfrontationen nicht ertragen. A:1 E:-1
+Ich warte, bis ich an der Reihe bin. A:1 E:-1
+Ich hasse es, aufdringlich zu wirken. A:1 E:-1
+Ich benehme mich wild und verrückt. C:-1 E:1
+Ich bin offen gegenüber anderen. C:-1 E:1
+Ich ließ mich gehen. C:-1 E:1
+Ich gebe meine intimen Gedanken preis. C:-1 E:1
+Ich lache mich durchs Leben. C:-1 E:1
+Ich drücke kindliche Freude aus. C:-1 E:1
+Ich scherze viel. C:-1 E:1
+Ich mag es, andere zu amüsieren. C:-1 E:1
+Ich scherze selten. C:1 E:-1
+Ich bevorzuge den formellen Umgang mit Fremden. C:1 E:-1
+Ich rede hauptsächlich. N:-1 E:1
+Ich rede zu viel. N:-1 E:1
+Ich spreche laut. N:-1 E:1
+Ich mache mich zum Mittelpunkt der Aufmerksamkeit. N:-1 E:1
+Ich mag es, Aufmerksamkeit zu erregen. N:-1 E:1
+Ich höre nie auf zu reden. N:-1 E:1
+Ich mache viel Lärm. N:-1 E:1
+Ich verlange, im Mittelpunkt des Interesses zu stehen. N:-1 E:1
+Ich spreche leise. N:1 E:-1
+Ich rede nicht gern über mich. N:1 E:-1
+Ich kann nicht ohne die Gesellschaft anderer auskommen. O:-1 E:1
+Ich genieße es, Teil einer lauten Menschenmenge zu sein. O:-1 E:1
+Ich genieße es, unterwegs zu sein. O:-1 E:1
+Ich bin gerne allein. O:1 E:-1
+Ich suche Ruhe. O:1 E:-1
+Ich genieße die Stille. O:1 E:-1
+Ich mag keine überfüllten Veranstaltungen. O:1 E:-1
+Ich mag es nicht, wenn Nachbarn zu nahe beieinander wohnen. O:1 E:-1
+Ich amüsiere mich leicht. O:1 E:-1
+Ich gehe meinen eigenen Weg. O:1 E:-1
+Ich habe Verständnis für die Gefühle anderer. A:1
+Ich respektiere die Gefühle anderer. A:1
+Ich berücksichtige die Interessen anderer. A:1
+Ich mag es, anderen zu Diensten zu sein. A:1
+Ich schätze die Standpunkte anderer. A:1
+Ich mache mir wenig Sorgen um andere. A:-1
+Ich interessiere mich nicht für die Probleme anderer Menschen. A:-1
+Die Gefühle anderer sind mir gleichgültig. A:-1
+Ich nehme mir keine Zeit für andere. A:-1
+Ich kann mich nicht um die Bedürfnisse anderer kümmern. A:-1
+Ich interessiere mich für Menschen. E:1 A:1
+Ich sorge dafür, dass sich die Menschen wohl fühlen. E:1 A:1
+Ich weiß, wie ich andere trösten kann. E:1 A:1
+Ich erkundige mich nach dem Wohlergehen anderer. E:1 A:1
+Ich nehme mir Zeit für andere. E:1 A:1
+Ich gebe den Menschen das Gefühl, willkommen zu sein. E:1 A:1
+Ich zeige meine Dankbarkeit. E:1 A:1
+Ich gebe anderen ein gutes Gefühl. E:1 A:1
+Ich spüre die Gefühle anderer. E:1 A:1
+Ich interessiere mich nicht wirklich für andere. E:-1 A:-1
+Ich lächle selten. E:-1 A:-1
+Ich würde niemals bei meinen Steuern schummeln. C:1 A:1
+Ich respektiere die Privatsphäre anderer. C:1 A:1
+Ich mag Harmonie in meinem Leben. C:1 A:1
+Ich versuche, mich an die Regeln zu halten. C:1 A:1
+Ich respektiere Autorität. C:1 A:1
+Mir sind Regeln egal. C:-1 A:-1
+Ich wende mich von anderen ab. C:-1 A:-1
+Ich spreche nur über meine eigenen Interessen. C:-1 A:-1
+Ich überschätze meine Leistungen. C:-1 A:-1
+Ich intrigiere gegen andere. C:-1 A:-1
+Ich handle auf Kosten anderer. C:-1 A:-1
+Ich breche Regeln. C:-1 A:-1
+Ich bin leicht zufriedenzustellen. N:1 A:1
+Ich habe für jeden ein gutes Wort. N:1 A:1
+Ich verstehe mich mit fast allen gut. N:1 A:1
+Ich vertraue anderen. N:1 A:1
+Ich respektiere andere. N:1 A:1
+Ich vertraue dem, was die Leute sagen. N:1 A:1
+Ich bin schwer zufriedenzustellen. N:-1 A:-1
+Ich bin schnell dabei, über andere zu urteilen. N:-1 A:-1
+Ich beleidige Menschen. N:-1 A:-1
+Es fällt mir schwer, anderen zu vergeben. N:-1 A:-1
+Ich widerspreche anderen. N:-1 A:-1
+Ich kritisiere die Unzulänglichkeiten anderer. N:-1 A:-1
+Ich antizipiere die Bedürfnisse anderer. O:1 A:1
+Ich spüre die Wünsche anderer. O:1 A:1
+Ich liebe es, über Dinge nachzudenken. O:1 A:1
+Ich versuche, mit mir selbst in Kontakt zu bleiben. O:1 A:1
+Ich arbeite daran, mich zu verbessern. O:1 A:1
+Ich gebe vor, mir Sorgen um andere zu machen. O:-1 A:-1
+Ich habe keine weiche Seite. O:-1 A:-1
+Ich behandle Menschen als minderwertig. O:-1 A:-1
+Ich habe keinen Kontakt zu meinen Gefühlen. O:-1 A:-1
+Ich schätze die Zusammenarbeit über den Wettbewerb. E:-1 A:1
+Ich höre auf mein Gewissen. E:-1 A:1
+Ich zwinge anderen meinen Willen auf. E:1 A:-1
+Ich liebe einen guten Kampf. E:1 A:-1
+Ich suche Konflikte. E:1 A:-1
+Ich halte zu viel von mir selbst. E:1 A:-1
+Ich erzähle große Geschichten über mich. E:1 A:-1
+Ich spiele anderen Streiche. E:1 A:-1
+Ich mag grobe Witze. E:1 A:-1
+Ich kommentiere lautstark über andere. E:1 A:-1
+Ich genieße es, rücksichtslos zu sein. E:1 A:-1
+Ich mache gefährliche Dinge. E:1 A:-1
+Ich mache mir Sorgen um andere. C:-1 A:1
+Das Unglück anderer berührt mich zutiefst. C:-1 A:1
+Ich habe Mitleid mit denen, denen es schlechter geht als mir. C:-1 A:1
+Ich interessiere mich für das Leben anderer Menschen. C:-1 A:1
+Ich mag es, Dinge für andere zu tun. C:-1 A:1
+Ich beruhige andere. C:-1 A:1
+Ich verlange viel von anderen. C:1 A:-1
+Ich falle nicht auf Schluchzergeschichten herein. C:1 A:-1
+Ich höre eher auf mein Gehirn als auf mein Herz. C:1 A:-1
+Ich neige dazu, weichherzige Menschen nicht zu mögen. C:1 A:-1
+Ich versuche, nicht an die Bedürftigen zu denken. C:1 A:-1
+Ich schaue auf jede Schwäche herab. C:1 A:-1
+Ich glaube, dass die Menschen für sich selbst sorgen sollten. C:1 A:-1
+Ich leide unter den Sorgen anderer. N:-1 A:1
+Ich höre eher auf mein Herz als auf mein Gehirn. N:-1 A:1
+Ich liebe Kinderfilme. N:-1 A:1
+Ich möchte anderen gefallen. N:-1 A:1
+Ich erinnere mich an die Geburtstage meiner Freunde. N:-1 A:1
+Ich schätze Erinnerungsstücke. N:-1 A:1
+Ich möchte anderen etwas bedeuten. N:-1 A:1
+Ich glaube, dass Weinen mir hilft, mich besser zu fühlen. N:-1 A:1
+Ich zeige meine Gefühle. N:-1 A:1
+Ich verstehe Menschen nicht, die emotional werden. N:1 A:-1
+Ich rege mich nicht über Dinge auf. N:1 A:-1
+Ich rufe Leute nicht nur an, um zu reden. N:1 A:-1
+Es ist mir egal, ob ich mich gut kleide. N:1 A:-1
+Ich habe ein weiches Herz. O:-1 A:1
+Ich tue mein Bestes für andere. O:-1 A:1
+Ich denke zuerst an andere. O:-1 A:1
+Ich werde alles für andere tun. O:-1 A:1
+Ich mag es, anderen eine Freude zu machen. O:-1 A:1
+Ich würde keiner Fliege etwas zuleide tun. O:-1 A:1
+Ich mache mir Feinde. O:1 A:-1
+Ich bin gegen Autorität. O:1 A:-1
+Ich glaube, dass ich besser bin als andere. O:1 A:-1
+Ich suche Gefahr. O:1 A:-1
+Ich setze Menschen unter Druck. O:1 A:-1
+Ich versuche, andere zu übertrumpfen. O:1 A:-1
+Ich glaube nur an mich selbst. O:1 A:-1
+Ich erledige meine Arbeit pünktlich. C:1
+Ich mache Dinge nach einem Plan. C:1
+Ich achte darauf, Fehler zu vermeiden. C:1
+Ich halte mein Scheckbuch ausgeglichen. C:1
+Ich plane gerne im Voraus. C:1
+Ausgeliehene Sachen gebe ich zurück. C:1
+Ich vergesse oft, die Dinge wieder an ihren richtigen Platz zu bringen. C:-1
+Ich vernachlässige meine Pflichten. C:-1
+Ich nehme Aufgaben zu leicht. C:-1
+Ich lasse meine Arbeit unerledigt. C:-1
+Ich plane nicht im Voraus. C:-1
+Ich schiebe unangenehme Aufgaben auf. C:-1
+Ich komme oft zu spät zur Arbeit. C:-1
+Ich bin anspruchsvoll in meiner Arbeit. E:1 C:1
+Ich mache Pläne und halte mich daran. E:1 C:1
+Ich erledige Aufgaben sofort. E:1 C:1
+Ich führe meine Pläne durch. E:1 C:1
+Ich beende, was ich anfange. E:1 C:1
+Ich verschwende meine Zeit. E:-1 C:-1
+Es fällt mir schwer, mich an die Arbeit zu machen. E:-1 C:-1
+Ich verschiebe Entscheidungen. E:-1 C:-1
+Ich habe Schwierigkeiten, Aufgaben zu starten. E:-1 C:-1
+Ich brauche einen Anstoß, um anzufangen. E:-1 C:-1
+Ich vergesse oft, Dinge zu tun. E:-1 C:-1
+Ich folge den Anweisungen. A:1 C:1
+Ich halte mich gepflegt. A:1 C:1
+Ich überprüfe meine Arbeit. A:1 C:1
+Ich verhalte mich richtig. A:1 C:1
+Ich halte mich an die Regeln. A:1 C:1
+Ich schätze gute Manieren. A:1 C:1
+Ich mache unangemessene Dinge. A:-1 C:-1
+Ich missachte Regeln. A:-1 C:-1
+Ich mache das Gegenteil von dem, was verlangt wird. A:-1 C:-1
+Ich achte nicht auf mein Aussehen. A:-1 C:-1
+Ich glaube nicht, dass für mich Gesetze gelten. A:-1 C:-1
+Ich treffe voreilige Entscheidungen. A:-1 C:-1
+Ich sage unangemessene Dinge. A:-1 C:-1
+Ich bin immer vorbereitet. N:1 C:1
+Ich führe meine Pläne aus. N:1 C:1
+Ich mache mich sofort an die Arbeit. N:1 C:1
+Ich lasse mich nicht so leicht ablenken. N:1 C:1
+Ich erledige Aufgaben reibungslos. N:1 C:1
+Ich mache ein Durcheinander. N:-1 C:-1
+Ich lasse mich leicht ablenken. N:-1 C:-1
+Ich bringe Dinge durcheinander. N:-1 C:-1
+Ich drücke mich meinen Pflichten aus. N:-1 C:-1
+Ich sehe die Dinge nicht durch. N:-1 C:-1
+Ich erledige Dinge in letzter Minute. N:-1 C:-1
+Ich kann mich nicht entscheiden. N:-1 C:-1
+Ich achte auf Details. O:1 C:1
+Ich erledige Aufgaben erfolgreich. O:1 C:1
+Ich habe ein Auge fürs Detail. O:1 C:1
+Ich verlange Qualität. O:1 C:1
+Ich stelle hohe Ansprüche an mich selbst und andere. O:1 C:1
+Ich treffe wohlüberlegte Entscheidungen. O:1 C:1
+Ich halte meine Verpflichtungen ein. O:1 C:1
+Ich erkenne Fehler. O:1 C:1
+Ich denke voraus. O:1 C:1
+Details fallen mir selten auf. O:-1 C:-1
+Ich investiere wenig Zeit und Mühe in meine Arbeit. O:-1 C:-1
+Ich achte nicht darauf. O:-1 C:-1
+Ich kaufe nur praktische Dinge. E:-1 C:1
+Ich neige dazu, impulsive Menschen nicht zu mögen. E:-1 C:1
+Ich treffe Vorsichtsmaßnahmen. E:-1 C:1
+Ich gebe nie Geld aus. E:-1 C:1
+Ich gebe nie mehr aus, als ich mir leisten kann. E:-1 C:1
+Ich mache verrückte Dinge. E:1 C:-1
+Ich mache oft Last-Minute-Pläne. E:1 C:-1
+Ich lasse mich leicht dazu überreden, dumme Dinge zu tun. E:1 C:-1
+Ich lache über die kleinste Provokation. E:1 C:-1
+Ich lache gerne laut. E:1 C:-1
+Ich mag es, aus einer Laune heraus zu handeln. E:1 C:-1
+Ich stürze mich in Dinge, ohne darüber nachzudenken. E:1 C:-1
+Ich mache die Dinge in einer logischen Reihenfolge. A:-1 C:1
+Ich komme gleich zur Sache. A:-1 C:1
+Ich glaube an eine logische Antwort auf alles. A:-1 C:1
+Ich habe einen Vorsprung gegenüber anderen. A:-1 C:1
+Ich mag keine unvollkommene Arbeit. A:-1 C:1
+Ich glaube an „Auge um Auge“. A:-1 C:1
+Ich habe kein Mitleid mit Kriminellen. A:-1 C:1
+Ich denke logisch. A:-1 C:1
+Ich habe Mitleid mit den Obdachlosen. A:1 C:-1
+Ich bin nicht so streng, wie ich sein sollte. A:1 C:-1
+Ich lasse zu, dass Leute an mir ziehen. A:1 C:-1
+Ich mache die Dinge halbwegs. A:1 C:-1
+Ich ließ meine Aufmerksamkeit schweifen. A:1 C:-1
+Ich glaube, dass Kriminelle Hilfe statt Bestrafung erhalten sollten. A:1 C:-1
+Ich mache weiter, bis alles perfekt ist. N:-1 C:1
+Ich möchte, dass jedes Detail berücksichtigt wird. N:-1 C:1
+Ich möchte, dass alles „einfach richtig“ ist. N:-1 C:1
+Ich möchte, dass alles nach Plan verläuft. N:-1 C:1
+Ich fordere Perfektion von anderen. N:-1 C:1
+Ich habe ein scharfes Auge auf die Arbeit anderer. N:-1 C:1
+Ich erwarte von anderen engagierte Arbeit. N:-1 C:1
+Mich stören unordentliche Menschen nicht. N:1 C:-1
+Unordnung macht mir nichts aus. N:1 C:-1
+Ich mag Ordnung. O:-1 C:1
+Ich folge einem Zeitplan. O:-1 C:1
+Ich arbeite nach einer Routine. O:-1 C:1
+Ich räume gern auf. O:-1 C:1
+Ich mache die Dinge nach Vorschrift. O:-1 C:1
+Ich passe gut auf meine Sachen auf. O:-1 C:1
+Ich sehe, dass Regeln eingehalten werden. O:-1 C:1
+Ich lasse meine Sachen herumliegen. O:1 C:-1
+Ich hinterlasse ein Chaos in meinem Zimmer. O:1 C:-1
+Ich mag keine Routine. O:1 C:-1
+Ich werde selten wütend. N:1
+Ich lasse mich von Dingen nicht so leicht aus der Ruhe bringen. N:1
+Ich bin nicht so schnell frustriert. N:1
+Ich bin selten beleidigt. N:1
+Ich bleibe cool. N:1
+Ich gerate schnell in Stress. N:-1
+Ich rege mich schnell auf. N:-1
+Ich bin leicht aus der Fassung gebracht. N:-1
+Ich ändere meine Stimmung sehr. N:-1
+Ich verstricke mich in meine Probleme. N:-1
+Ich fühle mich selten blau. E:1 N:1
+Ich fühle mich wohl mit mir. E:1 N:1
+Ich passe mich leicht an neue Situationen an. E:1 N:1
+Ich betrachte die positive Seite des Lebens. E:1 N:1
+Ich bin mir meiner Sache sicher. E:1 N:1
+Ich fühle mich oft blau. E:-1 N:-1
+Ich mache mir über Dinge Sorgen. E:-1 N:-1
+Ich fühle mich leicht bedroht. E:-1 N:-1
+Ich mag mich selbst nicht. E:-1 N:-1
+Ich bin voller Zweifel an den Dingen. E:-1 N:-1
+Ich bin selten gereizt. A:1 N:1
+Ich bin nicht so schnell genervt. A:1 N:1
+Ich nehme die Dinge, wie sie kommen. A:1 N:1
+Ich akzeptiere die Menschen so, wie sie sind. A:1 N:1
+Ich werde schnell wütend. A:-1 N:-1
+Ich habe oft schlechte Laune. A:-1 N:-1
+Ich werde wütend. A:-1 N:-1
+Ich schnauze Leute an. A:-1 N:-1
+Ich verliere die Beherrschung. A:-1 N:-1
+Es gibt Tage, an denen ich sauer auf die Welt bin. A:-1 N:-1
+Unter Druck bleibe ich ruhig. C:1 N:1
+Ich kann Versuchungen leicht widerstehen. C:1 N:1
+Ich übertreibe selten. C:1 N:1
+Ich kann mein Verlangen kontrollieren. C:1 N:1
+Ich lasse mich von meinen Stimmungen leiten. C:-1 N:-1
+Ich bin mir nicht sicher, wohin mein Leben führt. C:-1 N:-1
+Ich weiß nicht, warum ich manche Dinge tue, die ich tue. C:-1 N:-1
+Ich gerate außer Kontrolle. C:-1 N:-1
+Ich kann mich nicht konzentrieren. C:-1 N:-1
+Ich mache Dinge, die ich später bereue. C:-1 N:-1
+Auch in angespannten Situationen bleibe ich ruhig. O:1 N:1
+Ich verliere nicht den Kopf. O:1 N:1
+Ich weiß, wie ich damit umgehen soll. O:1 N:1
+Ich kann Kritik ertragen. O:1 N:1
+Ich bin leicht beleidigt. O:-1 N:-1
+Ich gerate leicht in Panik. O:-1 N:-1
+Ich bin leicht verletzt. O:-1 N:-1
+Ich bin leicht beleidigt. O:-1 N:-1
+Ich fühle mich von Rückschlägen erdrückt. O:-1 N:-1
+Ich werde von den Ereignissen überwältigt. O:-1 N:-1
+Ich habe leicht Angst. O:-1 N:-1
+Ich bin leicht verwirrt. O:-1 N:-1
+Ich halte meine Gefühle unter Kontrolle. E:-1 N:1
+Ich lasse andere ausreden, was sie sagen. E:-1 N:1
+Ich fordere Aufmerksamkeit. E:1 N:-1
+Ich reagiere heftig. E:1 N:-1
+Ich rede, auch wenn ich weiß, dass ich es nicht tun sollte. E:1 N:-1
+Ich mache oft viel Aufhebens. E:1 N:-1
+Ich schieße mir den Mund ab. E:1 N:-1
+Ich bin leicht aufgeregt. E:1 N:-1
+Ich platze mit allem heraus, was mir in den Sinn kommt. E:1 N:-1
+Ich mische mich in Gespräche ein. E:1 N:-1
+Ich mag es, zu klatschen. E:1 N:-1
+Ich werde selten emotional. A:-1 N:1
+Ich lasse mich nicht so leicht von meinen Gefühlen beeinflussen. A:-1 N:1
+Ich werde von Emotionen überwältigt. A:1 N:-1
+Ich weine leicht. A:1 N:-1
+Ich brach in Tränen aus. A:1 N:-1
+Ich bin leicht zu Tränen gerührt. A:1 N:-1
+Ich weine während des Kinos. A:1 N:-1
+Ich trage mein Herz auf meinem Ärmel. A:1 N:-1
+Ich habe Weinanfälle. A:1 N:-1
+Ich möchte, dass alles perfekt zusammenpasst. C:1 N:-1
+Ich fordere Gehorsam. C:1 N:-1
+Ich wahre den Schein. C:1 N:-1
+Ich liebe Ordnung und Regelmäßigkeit. C:1 N:-1
+Ich hänge an konventionellen Wegen. C:1 N:-1
+Ich möchte, dass die Dinge auf meine Weise erledigt werden. C:1 N:-1
+Ich bin ein Gewohnheitstier. C:1 N:-1
+Ich versuche, andere zu beeindrucken. C:1 N:-1
+Ich kann es nicht ertragen, wenn mir widersprochen wird. C:1 N:-1
+Mir möchte gesagt werden, dass ich Recht habe. C:1 N:-1
+Ich erlebe nur sehr wenige emotionale Höhen und Tiefen. O:-1 N:1
+Ich neige dazu, mich jeden Tag gleich zu fühlen. O:-1 N:1
+Ich bin immer in der gleichen Stimmung. O:-1 N:1
+Ich bemerke meine emotionalen Reaktionen selten. O:-1 N:1
+Ich bin die meiste Zeit entspannt. O:-1 N:1
+Ich bin nicht leicht zu rühren. O:-1 N:1
+Ich lasse mich von den Ereignissen nicht beunruhigen. O:-1 N:1
+Ich erlebe meine Gefühle intensiv. O:1 N:-1
+Ich habe häufig Stimmungsschwankungen. O:1 N:-1
+Ich werde von meinen Gefühlen beeinflusst. O:1 N:-1
+Ich kann leicht aufgewühlt werden. O:1 N:-1
+Ich habe einen reichen Wortschatz. O:1
+Ich verwende schwierige Wörter. O:1
+Ich mache aufschlussreiche Bemerkungen. O:1
+Ich zeige eine Beherrschung der Sprache. O:1
+Es macht mir Spaß, über Dinge nachzudenken. O:1
+Ich versuche mich selbst zu verstehen. O:1
+Ich interessiere mich nicht für abstrakte Ideen. O:-1
+Ich werde mich nicht tief in ein Thema vertiefen. O:-1
+Ich habe einen schlechten Wortschatz. O:-1
+Ich mag es nicht zu lernen. O:-1
+Beim Lesen überspringe ich schwierige Wörter. O:-1
+Ich bin voller Ideen. E:1 O:1
+Ich habe hervorragende Ideen. E:1 O:1
+Ich trage das Gespräch auf eine höhere Ebene. E:1 O:1
+Ich habe mutige Pläne. E:1 O:1
+Mir fallen schnell neue Ideen ein. E:1 O:1
+Ich bin in vielen Dingen gut. E:1 O:1
+Ich habe keine gute Vorstellungskraft. E:-1 O:-1
+Es fällt mir schwer, mir Dinge vorzustellen. E:-1 O:-1
+Mir fallen keine neuen Ideen ein. E:-1 O:-1
+Ich sehe Schönheit in Dingen, die andere vielleicht nicht bemerken. A:1 O:1
+Ich nehme mir Zeit, über Dinge nachzudenken. A:1 O:1
+Ich mache schöne Dinge. A:1 O:1
+Ich genieße die Schönheit der Natur. A:1 O:1
+Ich diskutiere gerne mit anderen über Filme und Bücher. A:1 O:1
+Ich mag Musik. A:1 O:1
+Ich liebe Blumen. A:1 O:1
+Ich liebe schöne Dinge. A:1 O:1
+Ich mag keine Konzerte. A:-1 O:-1
+Es macht mir keinen Spaß, Tanzaufführungen zu sehen. A:-1 O:-1
+Ich lerne schnell. C:1 O:1
+Ich benutze mein Gehirn. C:1 O:1
+Ich übertreffe das, was ich tue. C:1 O:1
+Ich schaue mir die Fakten an. C:1 O:1
+Ich stelle mich Herausforderungen. C:1 O:1
+Ich suche nach Erklärungen für Dinge. C:1 O:1
+Ich muss die Dinge nur einmal erklären. C:1 O:1
+Ich weiß, wie ich mein Wissen anwenden kann. C:1 O:1
+Ich kann komplexe Probleme bewältigen. N:1 O:1
+Ich verstehe Dinge schnell. N:1 O:1
+Ich begreife die Dinge schnell. N:1 O:1
+Ich liebe es, anspruchsvolles Material zu lesen. N:1 O:1
+Ich bin in der Lage, Dinge selbst herauszufinden. N:1 O:1
+Ich kann mit vielen Informationen umgehen. N:1 O:1
+Ich bekomme schnell einen Überblick über die Dinge. N:1 O:1
+Ich vermeide schwierigen Lesestoff. N:-1 O:-1
+Ich versuche komplexe Menschen zu meiden. N:-1 O:-1
+Ich verstehe die Dinge nicht. N:-1 O:-1
+Ich verbringe Zeit damit, über Dinge nachzudenken. E:-1 O:1
+Ich genieße es, Zeit alleine zu verbringen. E:-1 O:1
+Ich lebe in einer eigenen Welt. E:-1 O:1
+Ich genieße meine Privatsphäre. E:-1 O:1
+Es macht mir nichts aus, alleine zu essen. E:-1 O:1
+Ich erledige die Dinge in meinem eigenen Tempo. E:-1 O:1
+Ich genieße die Kontemplation. E:-1 O:1
+Ich bin lieber allein. E:-1 O:1
+Ich habe einen ganz eigenen Standpunkt. E:-1 O:1
+Ich möchte in Ruhe gelassen werden. E:-1 O:1
+Ich kann es nicht ertragen, allein zu sein. E:1 O:-1
+Ich mag es nicht, über Dinge nachzudenken. E:1 O:-1
+Ich löse gerne komplexe Probleme. A:-1 O:1
+Ich stelle Fragen, die sonst niemand stellt. A:-1 O:1
+Ich kenne die Antworten auf viele Fragen. A:-1 O:1
+Ich hinterfrage die Standpunkte anderer. A:-1 O:1
+Ich kann Fakten leicht miteinander verknüpfen. A:-1 O:1
+Ich habe Schwierigkeiten, abstrakte Ideen zu verstehen. A:1 O:-1
+Ich vermeide philosophische Diskussionen. A:1 O:-1
+Ich bin nicht an theoretischen Diskussionen interessiert. A:1 O:-1
+Ich halte mich für einen durchschnittlichen Menschen. A:1 O:-1
+Ich bin nicht daran interessiert, über Dinge zu spekulieren. A:1 O:-1
+Ich habe eine lebhafte Fantasie. C:-1 O:1
+Ich bevorzuge Abwechslung statt Routine. C:-1 O:1
+Ich glaube an die Bedeutung der Kunst. C:-1 O:1
+Ich genieße wilde Fantasieflüge. C:-1 O:1
+Ich brauche ein kreatives Ventil. C:-1 O:1
+Ich mag keine Kunst. C:1 O:-1
+Ich gehe nicht gerne in Kunstmuseen. C:1 O:-1
+Ich mag keine Poesie. C:1 O:-1
+Ich verliere mich selten in Gedanken. C:1 O:-1
+Ich träume selten. C:1 O:-1
+Ich suche nach verborgenen Bedeutungen in den Dingen. N:-1 O:1
+Ich mag es, in Gedanken zu versinken. N:-1 O:1
+Ich denke tief über die Dinge nach. N:-1 O:1
+Ich muss meine Motive verstehen. N:-1 O:1
+Ich neige dazu, Dinge zu analysieren. N:-1 O:1
+Ich neige dazu, stundenlang über etwas nachzudenken. N:-1 O:1
+Es macht mir Spaß, mich und mein Leben zu hinterfragen. N:-1 O:1
+Ich suche selten nach einem tieferen Sinn in den Dingen. N:1 O:-1
+Ich fordere nie Dinge heraus. N:1 O:-1
