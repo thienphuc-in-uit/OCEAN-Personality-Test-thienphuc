@@ -1,0 +1,19 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# --- C++ Build Artifacts ---
+# Tụi này là rác sinh ra lúc compile, không cần đẩy lên
+*.o
+*.out
+*.obj
+*.exe
+
+# (Lưu ý: Mình KHÔNG chặn *.dll và *.so vì web cần tụi nó để chạy)
+
+# --- Môi trường & IDE ---
+.vscode/
+.idea/
+.DS_Store
